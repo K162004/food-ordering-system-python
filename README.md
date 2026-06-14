@@ -9,24 +9,24 @@ This project is not designed for real-world deployment but was built as a practi
 
 ##Features
 
-* Admin Login
-* Customer Login
-* View Food Menu
-* Add New Food Items (Admin)
-* Place Orders
-* Remove Items from Cart
-* View Order Summary
-* Generate Final Bill
-* Discount Calculation
-* GST Calculation
-* Save Orders in JSON File
+Admin Login
+Customer Login
+View Food Menu
+Add New Food Items (Admin)
+Place Orders
+Remove Items from Cart
+View Order Summary
+Generate Final Bill
+Discount Calculation
+GST Calculation
+ Save Orders in JSON File
 
 ##Technologies Used
 
-* Python
-* OOP (Object Oriented Programming)
-* JSON
-* File Handling
+Python
+OOP (Object Oriented Programming)
+JSON
+File Handling
 
 ##Project Structure
 
