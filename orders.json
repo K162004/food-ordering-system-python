@@ -1,0 +1,36 @@
+[
+    {
+        "items": [
+            {
+                "item": "pizza",
+                "qty": 1,
+                "price": 250,
+                "amount": 250
+            },
+            {
+                "item": "pasta",
+                "qty": 2,
+                "price": 180,
+                "amount": 360
+            }
+        ],
+        "subtotal": 610,
+        "discount": 61.0,
+        "gst": 27.450000000000003,
+        "total": 576.45
+    },
+    {
+        "items": [
+            {
+                "item": "pizza",
+                "qty": 1,
+                "price": 250,
+                "amount": 250
+            }
+        ],
+        "subtotal": 250,
+        "discount": 0,
+        "gst": 12.5,
+        "total": 262.5
+    }
+]
